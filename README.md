@@ -2,6 +2,7 @@
 
 [![Travis-CI Build Status](https://travis-ci.org/philchalmers/SimDesign.svg?branch=master)](https://travis-ci.org/philchalmers/SimDesign) [![](http://www.r-pkg.org/badges/version/SimDesign)](http://www.r-pkg.org/pkg/SimDesign) [![](http://cranlogs.r-pkg.org/badges/grand-total/SimDesign)](https://CRAN.R-project.org/package=SimDesign)
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4110976/
 
 # SimDesign
 
